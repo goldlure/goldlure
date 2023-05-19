@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goldlure
-- 👀 I’m interested in programming, automation testing and DevOps tools
-- 🌱 I’m currently learning Azure DevOps
+- 👀 I’m interested in programming, automation testing, and DevOps tools
+- 🌱 I study Angular
 
 <!---
 goldlure/goldlure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
